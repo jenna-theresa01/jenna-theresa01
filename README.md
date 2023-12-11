@@ -1,4 +1,4 @@
-# Hi ✌👋🏻 I'm Jenna, welcome to my Github!
+# Hi 👋🏻 I'm Jenna, welcome to my Github!
 
 ### I am a Full Stack Software Developer in Kentcuky
 
