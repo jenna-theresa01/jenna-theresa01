@@ -1,5 +1,5 @@
 # Hi ✌👋🏻 I'm Jenna, welcome to my Github!
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### I am a Full Stack Software Developer in Kentcuky
 
 - 👩🏼‍🎓 I just graduated from a Awesome Inc's Web Developer Bootcamp 
